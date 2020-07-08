@@ -4,7 +4,7 @@ This project has been created with jupyter notebook as part of the
 'data analyst' program at udacity.
 
 ## Datasets
-The datasets for this project have been created via the twitter API and by downloading data from a Cloudfront URL
+The data used within this project has been accessed via the twitter API and by downloading datasets from a Cloudfront URL.
 
 ## Dependencies
 Execution of the code requires:
